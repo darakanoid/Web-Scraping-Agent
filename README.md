@@ -1,2 +1,29 @@
-# Web-Scraping-Agent
-The Web Scraping Agent helps you gather and analyze research from multiple online sources. Enter a question, and the app uses SerpAPI and Google Gemini to search, extract, and present relevant findings with source links, snippets, and a confidence score for easy analysis.
+# 🔍 Web Research Agent
+
+A lightweight Streamlit app that performs real-time web research using **SerpAPI** for search and **Google Gemini Pro 1.5** for content analysis. It presents a concise report with confidence scores and verified sources — ideal for quick insights or academic overviews.
+
+---
+
+ 📌 Features
+
+- ✅ 5+ verified search results from SerpAPI  
+- 🧠 Summarized answers generated using Gemini LLM  
+- 🎯 Confidence scoring system (Low, Medium, High)  
+- 📚 Source cards with titles, snippets, and external links  
+- ✨ Clean, minimal Streamlit UI  
+
+
+
+## 🛠️ Tech Stack
+
+| Tool         | Purpose                         |
+|--------------|---------------------------------|
+| Python       | Backend logic                   |
+| Streamlit    | Frontend UI                     |
+| SerpAPI      | Web search API                  |
+| Gemini Pro   | AI reasoning and content summarization |
+
+---
+
+ 📂 Project Structure
+

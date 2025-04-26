@@ -87,7 +87,7 @@ Google Gemini
 
 Streamlit
 
-Built with ❤️ by Ankit Girish 
+Built by Ankit Girish 
 ---
 
 
